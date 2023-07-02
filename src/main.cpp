@@ -12,7 +12,7 @@ const char *ssid = "";
 const char *passwort = "";
 
 // MQTT-Zugang
-const char *mqtt_server = "192.168.178.36";
+const char *mqtt_server = "";
 
 // Topics
 #define TOPIC_TEMP "sensor/DHT22/temperatur"
