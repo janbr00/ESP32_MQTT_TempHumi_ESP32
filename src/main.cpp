@@ -8,8 +8,8 @@
 DHT dht(DHTPIN, DHTTYPE);
 
 // WLAN-Zugang
-const char *ssid = "FRITZ!Box 7590 DE";
-const char *passwort = "81499215872177416307";
+const char *ssid = "";
+const char *passwort = "";
 
 // MQTT-Zugang
 const char *mqtt_server = "192.168.178.36";
